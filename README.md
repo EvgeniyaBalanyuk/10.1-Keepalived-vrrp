@@ -2,12 +2,6 @@
 
 # Задание 1
 
-Спасибо! Теперь другое предупреждение - egual priority advert. Приоритет изменила. Не помогло.
+<img width="2403" alt="Снимок экрана 2023-03-27 в 19 47 00" src="https://user-images.githubusercontent.com/62482983/228009513-ef095ece-835e-43c3-a9aa-fc653ba6eeb3.png">
 
-![VirtualBox_docker_27_03_2023_17_09_05](https://user-images.githubusercontent.com/62482983/227965012-3d27a95d-80f7-4c72-a03c-94d021e66924.png)
-
-![VirtualBox_docker_27_03_2023_17_09_45](https://user-images.githubusercontent.com/62482983/227965053-7f997500-bb94-47cf-9977-8a452f196dc2.png)
-
-![VirtualBox_debian_monitoring_27_03_2023_17_09_57](https://user-images.githubusercontent.com/62482983/227965081-cd3e4c5b-4db1-4985-b8eb-9a6204af1be3.png)
-
-![VirtualBox_debian_monitoring_27_03_2023_17_10_34](https://user-images.githubusercontent.com/62482983/227965103-5e42b817-1183-4a8d-ba03-a9182f583cb2.png)
+<img width="2401" alt="Снимок экрана 2023-03-27 в 19 45 07" src="https://user-images.githubusercontent.com/62482983/228009553-d257ae2f-f5cd-4b58-ba71-c78e0a892401.png">
